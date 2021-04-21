@@ -5,7 +5,7 @@ public class SQLConnection {
 	
 	protected static String url = "jdbc:postgresql://localhost:5432/postgres"; // sql server link
 	protected static String user ="postgres"; // sql server username
-	protected static String password = "Pandas12"; // sql server password
+	protected static String password = ""; // sql server password
 
 	
 	// connect
